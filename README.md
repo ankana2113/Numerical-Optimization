@@ -38,11 +38,11 @@ Implementation of matrices and relevant methods such as finding the determinant 
 Clone the repository:
 
 ```bash
-git clone https://github.com/<username>/Numerical-Optimization.git
+git clone https://github.com/ankana2113/Numerical-Optimization.git
 cd Numerical-Optimization
-
+```
 Create and activate a virtual environment:
-
+```bash
 python -m venv .venv
 ```
 
@@ -80,4 +80,4 @@ Add mathematical derivations and documentation for individual algorithms.
 
 ### Acknowledgements
 
-<it>This project draws inspiration from the coursework and learning materials of two courses mentioned</it>.
+*This project draws inspiration from the coursework and learning materials of two courses mentioned*.
