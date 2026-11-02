@@ -36,3 +36,6 @@ htmlcov/
 .env
 .env.*
 !.env.example
+
+
+git-commands
